@@ -2,7 +2,7 @@
 
 We have developed the Nine Men's Morris game using **java** along with the **javafx** GUI framework. We have used Maven to handle all our projects dependencies. All development was carried out using the Intellij IDEA IDE.
 ## Sprints
-ALl the project work has been broken down into 4 sprints. All the material and deliverables regarding the specific sprints can be found in the folders labelled Sprint 1 to Sprint 4.
+All the project work has been broken down into 4 sprints. All the material and deliverables regarding the specific sprints can be found in the folders labelled Sprint 1 to Sprint 4.
 _______________________________________________________
 ### Advanced Requirements
 We are a team of 4 so we have chosen the following 2 advanced requirements from the available advanced requirements in the assignment brief to design and implement:
